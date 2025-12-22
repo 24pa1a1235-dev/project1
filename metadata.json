@@ -1,0 +1,7 @@
+{
+  "name": "Bloom: Your Student Success Mentor",
+  "description": "A lovable, student-centric AI assistant that centralizes internships, scholarships, and learning programs with personalized guidance and motivational support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
